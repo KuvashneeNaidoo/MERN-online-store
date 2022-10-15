@@ -80,12 +80,20 @@ Password: 123456
 
 - Once logged in, the administrator can navigate to the "PRODUCT" page where he/she can delete a product by clicking on the "DELETE" button or by selecting multiple checkboxes and then clicking on the "DELETE ALL" button.
 
+![Admin - Product](https://user-images.githubusercontent.com/105747929/195987780-73fb8015-e85b-4d72-a80c-3795eba3d041.png)
+
 - To edit a product, click on the "EDIT" button. Next, update the details of the product by modifying the information and then click on the "UPDATE PRODUCT" button.
+
+![Admin - Edit](https://user-images.githubusercontent.com/105747929/195988133-7969840f-bf8a-4490-8057-aa24d658899f.png)
 
 - To create a product, navigate to the "CREATE PRODUCT" page. Next, fill in the respective information of the new product and also add an image by clicking on the "click to add an image" text.
   NOTE: The image you upload from your local machine must be smaller than 1024x1024 and the format should be in jpg/png.
+  
+![Admin - Create Product](https://user-images.githubusercontent.com/105747929/195988258-35ee21b2-aa96-49fb-ab18-b006a6833bba.png)
 
 - To create, edit or delete a category, navigate to the "CATEGORIES" page. Click on the respective buttons to modify the categories.
+
+![Admin - Categories](https://user-images.githubusercontent.com/105747929/195988405-5860d5ef-ef65-47a5-bfde-d3fcf0c35178.png)
 
 ### End-User/Customer
 
@@ -99,9 +107,15 @@ Password: 12345678 (your password must be atleast 6 characters long)
 
 - Once logged in, the customer can navigate to the "SHOP" page. He/she can add items to their cart by clicking on the "ADD TO CART" button or they can simply view a product by clicking on the "VIEW" button.
 
+![Customer - Shop](https://user-images.githubusercontent.com/105747929/195988918-6fac8d8c-f5ff-4acc-966e-1b8828047f66.png)
+
 - The customer can search for and filter the products to display the specific items for ladies and men. The customer can also sort the products from newest to oldest or from high to low/ low to high prices.
 
+![Customer - Filter, Search, Sort](https://user-images.githubusercontent.com/105747929/195988807-b6f28b04-ac3d-4027-8462-b23738fa4737.png)
+
 - The customer can view all the products they have added to their cart by clicking on the cart icon. He/she can increase or decrease the number of items they wish to purchase as well as view the total price of the item. Also, the customer can remove a product from their cart by clicking on the red X displayed on the right corner of each product.
+
+![Customer - Cart](https://user-images.githubusercontent.com/105747929/195989169-567ba5ad-5cf2-4fd4-a2ec-3dceed83c794.png)
 
 ## Testing
 
@@ -252,13 +266,15 @@ When any changes to project items are made, the server will restart and update t
 - [Dirk Gavor](https://www.sliderrevolution.com/resources/css-loaders/)
 - [Eye Speak](https://unsplash.com/photos/io90l_vExbQ)
 - [HyperionDev](https://youtu.be/nX7jGHgD9t8)
-- [Karly Jones](https://unsplash.com/photos/jaV6cvSEqao)(https://unsplash.com/photos/bzBs0_g0lRo)
+- [Karly Jones](https://unsplash.com/photos/jaV6cvSEqao)
+- [Karly Jones](https://unsplash.com/photos/bzBs0_g0lRo)
 - [Kumar Shubham](https://dev.to/shubham1710/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-1l2d)
 - [Mark Adriane](https://unsplash.com/photos/V7IJzp_ElQc)
 - [Michael Lee](https://unsplash.com/photos/5Z9bgfRZLLE)
-- [Misakyanovich]. Retrieved 11 October 2022, from (https://unsplash.com/photos/1NM7B6BlCu4)
+- [Misakyanovich](https://unsplash.com/photos/1NM7B6BlCu4)
 - [Olena Sergienko](https://unsplash.com/photos/GOVTETevRm8)
-- [Omid Armin](https://unsplash.com/photos/I_tcaS2M980)(https://unsplash.com/photos/PmB5Uo9dUk4)
+- [Omid Armin](https://unsplash.com/photos/I_tcaS2M980)
+- [Omid Armin](https://unsplash.com/photos/PmB5Uo9dUk4)
 - [Raphael Nast](https://unsplash.com/photos/HyaSbSRA39A)
 - [Roxxie Blackham](https://unsplash.com/photos/MMlGbX9BmAo)
 - [Unsplash](https://unsplash.com)
