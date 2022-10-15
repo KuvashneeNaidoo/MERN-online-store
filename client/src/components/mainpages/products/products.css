@@ -1,0 +1,91 @@
+/* CSS used to style the products Component */
+
+.products {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  justify-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.delete-all {
+  text-align: right;
+  margin: 20px;
+}
+
+.delete-all input {
+  height: 25px;
+  width: 25px;
+  transform: translateY(5px);
+  margin: 0 15px;
+}
+
+.delete-all span {
+  text-transform: uppercase;
+  color: black;
+  letter-spacing: 1.3px;
+}
+
+.delete-all button {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 25px;
+  color: red;
+  background-color: black;
+  text-transform: uppercase;
+}
+
+.filter_menu {
+  width: 95.5%;
+  min-height: 40px;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 15px 0;
+}
+
+.filter_menu select,
+input {
+  border: 1px solid #ccc;
+  height: 40px;
+  outline: none;
+  padding: 0 5px;
+  color: whitesmoke;
+  background-color: black;
+}
+
+::placeholder {
+  color: whitesmoke;
+}
+
+.filter_menu input {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.load_more {
+  text-align: center;
+}
+
+.load_more button {
+  width: 150px;
+  background-color: black;
+  color: crimson;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border: 2px solid crimson;
+  transition: ease-in 1s;
+  margin-bottom: 20px;
+  border-radius: 50px;
+}
+
+.sortAndFilterHeadings {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 15px;
+}
+
+@import url('../utils/productItem/productItem.css');

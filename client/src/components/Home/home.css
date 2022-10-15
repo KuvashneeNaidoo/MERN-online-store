@@ -1,0 +1,26 @@
+/* CSS used to style the Home Component */
+
+.background {
+  position: relative;
+  min-height: 700px;
+  background: transparent url(../Home/images/home.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.intro {
+  position: absolute;
+  top: 60px;
+  left: 60px;
+  background: white;
+  outline: solid 2px black;
+  opacity: 50%;
+  padding: 30px;
+}
+
+.intro h1 {
+  margin: 0 0 10px 0;
+}
+
+h1 {
+  font-size: 28px;
+}

@@ -1,0 +1,32 @@
+/* CSS used to style the body of the app */
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Josefin+Sans:wght@300;400;500;600;700&family=Jost:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Jost, sans-serif;
+}
+
+body {
+  margin: 0 auto;
+  font-size: 1.5em;
+  font-weight: 400;
+  text-align: center;
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

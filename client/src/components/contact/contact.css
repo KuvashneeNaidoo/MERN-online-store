@@ -1,0 +1,40 @@
+/* CSS used to style the Contact Component */
+
+.contact-heading {
+  padding-top: 25px;
+  text-align: center;
+  position: relative;
+  padding-bottom: 25px;
+}
+.label {
+  margin-top: 10px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.input {
+  width: 350px;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-family: 'Jost';
+}
+.message {
+  min-height: 100px;
+  height: auto;
+  width: 350px;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-family: 'Jost';
+}
+.submit-button {
+  width: 150px;
+  background-color: black;
+  color: crimson;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border: 2px solid crimson;
+  transition: ease-in 1s;
+  margin-bottom: 20px;
+  border-radius: 50px;
+}

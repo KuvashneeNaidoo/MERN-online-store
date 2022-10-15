@@ -1,0 +1,68 @@
+/* CSS used to style the Header Component */
+
+header {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(145, 63, 63, 0.644);
+}
+
+header a {
+  color: black;
+  text-transform: uppercase;
+}
+
+header li a {
+  font-size: 22px;
+  color: black;
+  font-weight: 500px;
+  padding: 5px 2px;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+header li a:hover {
+  padding-bottom: 3px;
+  color: rgba(220, 20, 60, 0.507);
+}
+
+header ul li {
+  display: inline-block;
+  opacity: 0.7;
+  padding: 0 20px;
+}
+
+.menu {
+  display: none;
+}
+
+.cart-icon {
+  position: relative;
+  margin-right: 50px;
+}
+
+.cart-icon span {
+  background: crimson;
+  border-radius: 20px;
+  color: #fff;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 7px;
+  font-size: 10px;
+}
+
+.logoContainer {
+  position: absolute;
+  top: 8px;
+  left: 250px;
+}
+
+.adminLogo {
+  position: absolute;
+  top: 17px;
+  left: 198px;
+  width: 30px;
+  object-fit: cover;
+}
